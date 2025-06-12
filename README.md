@@ -29,7 +29,7 @@ I'm a passionate Android Developer 🚀 with a knack for building modern, user-f
 ---
 
 ### 📫 How to reach me:
-- 📧 Email: `dhruvilpatel2303@gmail.com`
+- 📧 Email: `pateldhruvil2303@gmail.com`
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dhruvil-patel-507301285/)
 - 🧑‍💻 [LeetCode](https://leetcode.com/u/Dhruvil2303/)
 - 🌐 Portfolio: *Coming soon on Vercel 🚀*
