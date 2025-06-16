@@ -33,6 +33,7 @@ I'm a passionate Android Developer 🚀 with a knack for building modern, user-f
 - 🌐 Portfolio: *Coming soon on Vercel 🚀*
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvilpatel2303&layout=compact&langs_count=6)
 
 
 
