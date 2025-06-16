@@ -35,7 +35,7 @@ I'm a passionate Android Developer 🚀 with a knack for building modern, user-f
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvilpatel2303&layout=compact&langs_count=6)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvilpatel2303&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvilpatel2303&layout=donut)]
 
 
 
