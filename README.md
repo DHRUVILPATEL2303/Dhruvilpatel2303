@@ -41,7 +41,7 @@ I'm a passionate Android Developer 🚀 with a knack for building modern, user-f
 
 
 ### ⚡ Fun fact:
-I love building apps that solve real-world problems. From contact apps to medical inventory systems – if it challenges me, I build it!
+I love building apps that solve real-world problems.
 
 ---
 
