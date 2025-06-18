@@ -28,6 +28,25 @@ I'm a passionate Android Developer 🚀 with a knack for building modern, user-f
 - Tech blogs or community-driven mobile projects
 - REST API and WebSocket
 
+
+---
+
+## 🛠 Tech Stack
+
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-000000?style=for-the-badge&logo=ktor&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Room](https://img.shields.io/badge/Room-6D4C41?style=for-the-badge&logo=android&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-007396?style=for-the-badge&logo=android&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-333333?style=for-the-badge&logo=websockets&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
 ---
 
 ### 📫 How to reach me:
