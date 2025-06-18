@@ -5,8 +5,10 @@ I'm a passionate Android Developer 🚀 with a knack for building modern, user-f
 ---
 
 ### 👀 I’m interested in:
-- 📱 Android Development (Jetpack Compose, MVVM, Firebase)
+- 📱 Android Development (Jetpack Compose, Firebase,SupaBase)
 - ☕ Spring Boot backend development
+- Ktor-Backend Development
+- Flask-Backend Development
 - 🤖 AI/ML Integration in mobile apps
 - 📊 Data visualization & dashboard apps
 - 🧪 Exploring testing, DI, and performance optimization
@@ -16,6 +18,7 @@ I'm a passionate Android Developer 🚀 with a knack for building modern, user-f
 ### 🌱 I’m currently learning:
 - 🧩 Spring Boot and backend development in Java
 - 🧠 Machine Learning APIs integration
+- ktor-framework and websocket
 
 ---
 
@@ -23,6 +26,7 @@ I'm a passionate Android Developer 🚀 with a knack for building modern, user-f
 - Android projects involving Jetpack Compose, APIs, or Firebase
 - Open-source Android libraries
 - Tech blogs or community-driven mobile projects
+- REST API and WebSocket
 
 ---
 
@@ -30,7 +34,7 @@ I'm a passionate Android Developer 🚀 with a knack for building modern, user-f
 - 📧 Email: `pateldhruvil2303@gmail.com`
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dhruvil-patel-507301285/)
 - 🧑‍💻 [LeetCode](https://leetcode.com/u/Dhruvil2303/)
-- 🌐 Portfolio: *Coming soon on Vercel 🚀*
+
 
 ---
 
