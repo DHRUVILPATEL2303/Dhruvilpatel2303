@@ -1,33 +1,44 @@
-## 👋 Hi there, I'm Dhruvil Patel (@Dhruvilpatel2303)
+<h1 align="center">👋 Hi there, I'm Dhruvil Patel (@Dhruvilpatel2303)</h1>
 
-I'm a passionate Android Developer 🚀 with a knack for building modern, user-friendly mobile apps using **Jetpack Compose**, **Kotlin**, and **clean architecture** principles.
-
----
-
-### 👀 I’m interested in:
-- 📱 Android Development (Jetpack Compose, Firebase,SupaBase)
-- ☕ Spring Boot backend development
-- Ktor-Backend Development
-- Flask-Backend Development
-- 🤖 AI/ML Integration in mobile apps
-- 📊 Data visualization & dashboard apps
-- 🧪 Exploring testing, DI, and performance optimization
+<p align="center">
+  🚀 Android Developer | Kotlin Enthusiast | Backend Explorer | Problem Solver
+</p>
 
 ---
 
-### 🌱 I’m currently learning:
-- 🧩 Spring Boot and backend development in Java
-- 🧠 Machine Learning APIs integration
-- ktor-framework and websocket
+### 👨‍💻 About Me
+
+I'm a passionate **Android Developer** specializing in building modern, user-friendly mobile apps using **Jetpack Compose**, **Kotlin**, and **clean architecture** principles. I love integrating backend services, working with real-time data (WebSockets), and crafting smooth user experiences.
 
 ---
 
-### 💞️ I’m looking to collaborate on:
-- Android projects involving Jetpack Compose, APIs, or Firebase
-- Open-source Android libraries
-- Tech blogs or community-driven mobile projects
-- REST API and WebSocket
+### 🔍 What I’m Interested In
 
+- 📱 Android Development (Jetpack Compose, Firebase, Supabase)
+- ☕ Backend Development with Spring Boot & Java
+- ⚡ Ktor WebSocket-based backend APIs
+- 🐍 Flask-based Python backend systems
+- 🤖 AI/ML integrations in mobile apps
+- 📊 Dashboards & real-time data visualization
+- 🧪 Testing, Dependency Injection, performance optimization
+
+---
+
+### 🌱 Currently Learning
+
+- 🔁 WebSockets & real-time updates with Ktor
+- 🧠 ML API integration with Android
+- 🔧 Spring Boot and backend architectures
+- 🔐 Secure authentication & token-based systems
+
+---
+
+### 🤝 Looking to Collaborate On
+
+- Android apps with Jetpack Compose, APIs, or Firebase
+- REST API or WebSocket-based full-stack projects
+- Open-source Android libraries and utility tools
+- Community-driven mobile app ideas or tech blogs
 
 ---
 
@@ -48,27 +59,28 @@ I'm a passionate Android Developer 🚀 with a knack for building modern, user-f
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+---
 
+### 📬 Get in Touch
+
+- 📧 Email: [`pateldhruvil2303@gmail.com`](mailto:pateldhruvil2303@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhruvil-patel-507301285/)
+- 💻 [LeetCode](https://leetcode.com/u/Dhruvil2303/)
 
 ---
 
-### 📫 How to reach me:
-- 📧 Email: `pateldhruvil2303@gmail.com`
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dhruvil-patel-507301285/)
-- 🧑‍💻 [LeetCode](https://leetcode.com/u/Dhruvil2303/)
+### 📈 GitHub Stats
 
-
----
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvilpatel2303&layout=donut)
-
-
-
-### ⚡ Fun fact:
-I love building apps that solve real-world problems.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvilpatel2303&layout=donut&theme=tokyonight" />
+</p>
 
 ---
 
-📌 *Always open to learning, building, and collaborating. Let’s create something awesome together!*
+### ⚡ Fun Fact
+
+> I love building apps that solve real-world problems, especially ones that make life easier for students, developers, and everyday users.
+
+---
+
+<p align="center">📌 Always learning. Always building. Always improving. Let’s create something impactful together!</p>
