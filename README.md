@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 Android Developer | Kotlin Enthusiast | Backend Explorer | Problem Solver
+  🚀 Android Developer  | Backend Developer 
 </p>
 
 ---
@@ -96,11 +96,4 @@ I'm a passionate **Android Developer** specializing in building modern, user-fri
 </p>
 
 ---
-
-### ⚡ Fun Fact
-
-> I love building apps that solve real-world problems, especially ones that make life easier for students, developers, and everyday users.
-
----
-
 <p align="center">📌 Always learning. Always building. Always improving. Let’s create something impactful together!</p>
