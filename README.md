@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hi there, I'm Dhruvil Patel (@Dhruvilpatel2303)</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=440&lines=Hi+I'm+Dhruvil+Patel;Android+Developer+%F0%9F%93%B1;Backend+Explorer+%F0%9F%94%A0;Tech+Enthusiast+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+</p>
+
+<p align="center">
   🚀 Android Developer | Kotlin Enthusiast | Backend Explorer | Problem Solver
 </p>
 
@@ -66,6 +70,22 @@ I'm a passionate **Android Developer** specializing in building modern, user-fri
 - 📧 Email: [`pateldhruvil2303@gmail.com`](mailto:pateldhruvil2303@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhruvil-patel-507301285/)
 - 💻 [LeetCode](https://leetcode.com/u/Dhruvil2303/)
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhruvilpatel2303&theme=tokyonight&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvilpatel2303&theme=tokyonight" />
+</p>
 
 ---
 
