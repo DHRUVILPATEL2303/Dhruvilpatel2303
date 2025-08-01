@@ -92,7 +92,7 @@
   <p style="color: #E0E0E0; font-family: 'Segoe UI', sans-serif;">
     📧 <a href="mailto:pateldhruvil2303@gmail.com" style="color: #FF6F61; text-decoration: none;">pateldhruvil2303@gmail.com</a><br>
     💼 <a href="https://www.linkedin.com/in/dhruvil-patel-507301285/" style="color: #FF6F61; text-decoration: none;">LinkedIn</a><br>
-    💻 <a href="https://leetcode.com/u/Dhruvil2303/" style="color: #FF6F61; text-decoration: none;">LeetCode</a>
+   
   </p>
 </div>
 
